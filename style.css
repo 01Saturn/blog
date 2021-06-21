@@ -1,40 +1,14 @@
 body {
-    text-align: center;
+ background-color: aquamarine;
+text-align: center;
 }
+.reindeer{
+height: 200px;
+}
+.mountain{
+height: 200px;
 
-.Sawyerface {
-    height: 200px;
-    width: 200px;
-    border-radius: 50%;
 }
-
-#welcomepage {
-    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
-    opacity: 0.83;
-    height: 600px;
-    width: 100%;
-    display: table;
-}
-
-#biopage {
-    background: linear-gradient(#8c0d0d 0%, #8c310d 100%);
-    height: 500px;
-    display: table-cell;
-    font-family: "Dela Gothic One";
-}
-
-.ul {
-    list-style: none;
-    position: fixed;
-    z-index: 1;
-    top 1px;
-}
-.links {
-float: left;
-padding-top: 10px;
-padding-left: 10px;
-padding-right: 10px;
-}
-.links:hover{
-background-color: purple;
+.noob{
+height: 200px;
 }
